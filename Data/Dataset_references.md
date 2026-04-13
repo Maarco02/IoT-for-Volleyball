@@ -34,3 +34,12 @@ and a table shows the essentials features of each one.
 29. https://www.kaggle.com/datasets/zara2099/sports-injury-traceability-dataset
 30. https://github.com/OxWearables/capture24
 31. https://archive.ics.uci.edu/dataset/319/mhealth+dataset
+32. https://archive.ics.uci.edu/dataset/231/pamap2+physical+activity+monitoring
+33. https://data.4tu.nl/articles/dataset/GOTOV_Human_Physical_Activity_and_Energy_Expenditure_Dataset_on_Older_Individuals/12716081
+34. https://archive.ics.uci.edu/dataset/305/realdisp+activity+recognition+dataset
+35. https://archive.ics.uci.edu/dataset/256/daily+and+sports+activities
+36. https://cvssp.org/data/totalcapture/
+37. https://www.cis.fordham.edu/wisdm/dataset.php
+38. https://bmi.hmu.gr/the-mobifall-and-mobiact-datasets-2/
+39. https://dip.is.tuebingen.mpg.de/
+40. https://www.mdpi.com/1424-8220/20/15/4083
