@@ -1,0 +1,43 @@
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+ID,Name,Source,Link ,Sensor involved,Sensor Location,Frequency (Hz),# Records,# Subjects,Duration,Movement,Application,Purpose,Complete?
+K001,Volleyball Performance & Biometrics Dataset,Kaggle,Volleyball Performance & Biometrics Dataset,"Accelerometer, Gyroscope, temperature, heart rate",ND,ND,"1,462",25,10 sessions over 2 years,"Jump, Landing",Volley,Performance,TRUE
+K002,Motion Attitude Error Detection Dataset,Kaggle,Motion Attitude Error Detection Dataset | Kaggle,"Accelerometer, Gyroscope, temperature, heart rate","Forearms, leg/shank",ND,"~5,000",100 (age from 18 to 49),ND,"Pushups, squat, lunge etc.",GYM,Posture corrections,TRUE
+K003,Rec Gym: Gym Workouts Recognition Dataset,Kaggle,Rec Gym: Gym Workouts Recognition Dataset,"Accelerometer, Gyroscope, Body capacitance","Wirst, pocket, calf",20,ND,10,5 sessions in 5 days (1hr each),"Adductor, Arm Curl, Bench Press, Leg Curl, Leg Press, Riding, Rope Skipping, Running, Squat, Stair Climber, Walking",GYM,Exercise recognition,TRUE
+K004,CMI - Detect Behavior with Sensor Data Dataset,Kaggle,CMI - Detect Behavior with Sensor Data Dataset | Kaggle,"IMU, thermopile, ToF","Wirst, dominant arm",ND,"576,000",83 (age from 10 to 83),ND,BFRBs(Body Focused Repetitive Behavior),HAR,Gesture recognition,TRUE
+K005,IMU data human activity,Kaggle,IMU data human activity,"Accelerometer, gyroscope",ND,ND,"34,000",5,2 sessions,various,HAR,Activity recognition,TRUE
+K006,AI-Powered IMU Motion Dataset,Kaggle,AI-Powered IMU Motion Dataset,IMU,Wirst,100,"320,000",4,ND,"Jump, shot",Basket,Motion classification,TRUE
+K007,6G-SDN Sports Motion Dataset,Kaggle,6G-SDN Sports Motion Dataset,"IMU, high speed camera",Various,ND,1000,597,4 years,"Kick, run, dribble etc",Football,Motion recognition,TRUE
+K008,Gym Workout IMU Dataset,Kaggle,Gym Workout IMU Dataset,Apple Watch SE,Wirst (left),100,"~1,400,000",ND,ND,various,GYM,Exercise recognition,TRUE
+K009,Walker Fall Detection Dataset,Kaggle,Walker Fall Detection Dataset,"Accelerometer, gyroscope on arduino",walker,100-80,2480,ND,ND,Step/movement/fall,Health,fall recognition,TRUE
+K010,Head Posture detection based on 3 Inertial Sensors,Kaggle,Head Posture detection based on 3 Inertial Sensors,IMU,head/neck,50,"45,100",1,ND,Head movement,Health,Head posture ,TRUE
+K011,Human activity recognition,Kaggle,Human activity recognition,IMU,Arm,ND,"~24,000",1,4 sessions,Arm movement,Robotics,Movement classification,TRUE
+K012,Swimming styles IMU data,Kaggle,Swimming styles IMU data,IMU,Lower Back,25,"~65,000",1,40 minutes (10 each session),Swimming style,Swimming,Style recognition,TRUE
+K013,IMU Data for AI,Kaggle,IMU Data for AI,IMU,ND,100,"~1,260,000",1,"3,5 hrs",various,AI Training,movement recognition,TRUE
+K014,ACTIVITY-DETECTION-IMU-SENSOR,Kaggle,ACTIVITY-DETECTION-IMU-SENSOR,IMU,Wirst,20,"1,098,207",36,ND,"Basic movement, Downstairs, Jogging, Sitting, Standing, Upstairs, Walking",NN training,movement classification,TRUE
+K015,IMU data on Walking and Running (Unlabeled),Kaggle,IMU data on Walking and Running (Unlabeled),IMU,feet,100,"120,000",1,11 hrs,"walking, running",HAR,activity classification,TRUE
+K016,Multimodal Athlete Performance Sensor Dataset,Kaggle,Multimodal Athlete Performance Sensor Dataset,"IMU, PPG, EMG",ND,30,1000,50,ND,"Walking, running, change of directions, speed, jump",HAR,Biomechanical analysis,TRUE
+K017,Biomechanical Analysis for Injury Prevention,Kaggle,Biomechanical Analysis for Injury Prevention,IMU,ND,ND,1000,1000(age from 18 to 49),ND,"Squat, lunges, jumps, other movement",GYM,injury prevention,TRUE
+K018,Multimodal Sports Injury Dataset,Kaggle,Multimodal Sports Injury Dataset,"IMU, EMG, environmental","chest, wrist, ankles",50-200,"15,420",156,6 months(30-180 min each session),various,HAR in sports,predictive modeling of sports injury risk,TRUE
+K019,Exercise Detection dataset,Kaggle,Exercise Detection dataset,Camera,left pov,ND,"31,000",1,ND,"push-ups, jumping jacks, pull-ups, squats, and Russian twists",GYM,exercise recognition,TRUE
+K020,LSTM Exercise Classification: Push Up Videos,Kaggle,LSTM Exercise Classification: Push Up Videos,Camera,various pov,ND,200,ND,ND,push up,GYM,exercise classification,TRUE
+K021,Motion Attitude Error Detection Dataset,Kaggle,Motion Attitude Error Detection Dataset,IMU,ND,ND,"5,000",100,ND,various,HAR,Posture detection,TRUE
+K022,HAR Dataset - Laica Laboratory,Kaggle,HAR Dataset - Laica Laboratory | Kaggle,Accelerometer,ND,50,"13,600",ND,45 min,"Standing, walking, jumping, squatting",HAR,Activity recognition,TRUE
+K023,Human_Acitivity_Recognition,Kaggle,Human_Acitivity_Recognition | Kaggle,IMU,ND,50,"2,947",30,ND,"Walking, standing, sitting, etc",HAR,Activity recognition,TRUE
+K024,Human Activity Recognition with Smartphones,Kaggle,Human Activity Recognition with Smartphones,Smartphone IMU,waist,50,"12,990",30,ND,"Walking, walking upstairs/downstairs, sitting, standing, lying",HAR,Activity recognition,TRUE
+K025,Human Activity Recognition Trondheim (HARTH),Kaggle,Human Activity Recognition Trondheim (HARTH),accelerometers,"right thigh, lower back",50,"1,700,000",22,2 hrs,Different activity including cycling,HAR,Activity recognition,TRUE
+K026,HAR self-collected dataset,Kaggle,HAR self-collected dataset,IMU,Waist,10,800,10,8 sessions each participant ,"Walking, sitting, standing, lying, running, climbing stairs, cycling, falling",HAR,Activity recognition,TRUE
+K027,Human Activity Recognition Dataset,Kaggle,Human Activity Recognition Dataset,Smartphone IMU,Pocket,100,"~10,000",90,ND,"18 different activities(including walking, sitting and some gyms activities)",HAR,Activity recognition,TRUE
+K028,Wearable Sensor System for Physical Education,Kaggle,Wearable Sensor System for Physical Education,"IMU, thermometer, heart rate",ND,1,500,1,~8 min,"Rest, walking, running, cycling",HAR,injury risk prevention,TRUE
+K029,Sports Injury Traceability Dataset,Kaggle,Sports Injury Traceability Dataset,"IMU, others",various,ND,"2,000",ND,ND,Athletes motion,HAR,injury risk assessment,TRUE
+G001,CAPTURE-24: Human activity recognition with activity trackers,GitHub,OxWearables/capture 24: CAPTURE-24: Human activity recognition with activity trackers,"Smartwatch accelerometers, body camera",wrist,100,"5,000",150,24hrs,daily activities,HAR,Activity recognition,TRUE
+G002,MHEALTH,GitHub,MHEALTH - UCI Machine Learning Repository,"IMU, camera","chest, lower arms, ankles",50,ND,10,ND,12 different activities,HAR,Activity recognition,TRUE
+G003,PAMAP2 Physical Activity Monitoring,GitHub,PAMAP2 Physical Activity Monitoring - UCI Machine Learning Repository,"IMU, heart rate","wrist, chest, dominant ankle",100,ND,9,ND,18 physical activities,Computer science,Activity recognition,TRUE
+G004,GOTOV Human Physical Activity and Energy Expenditure Dataset on Older Individuals,GitHub,GOTOV Human Physical Activity and Energy Expenditure Dataset on Older Individuals (dataset),IMU,"ankle, wrist, chest",83-250,"94,000",35 (over 60 y.o.),90 min,16 activities of daily living,HAR,Activity recognition,TRUE
+G005,REAL DISP Activity Recognition Dataset,GitHub,REAL DISP Activity Recognition Dataset - UCI Machine Learning Repository,IMU,"Weist, ankle, wrist, chest",ND,"1,419",17,ND,various physical activities,HAR,Activity recognition,TRUE
+G006,Daily and Sports Activities,GitHub,Daily and Sports Activities - UCI Machine Learning Repository,IMU,"Torso, arms and legs",25,"9,120",8,95 min each participant(5 min each activity),19 daily and sport activities,HAR,Activity recognition,TRUE
+G007,Total Capture: 3D Human Pose Estimation Fusing Video and Inertial Sensors,GitHub,Total Capture: 3D Human Pose Estimation Fusing Video and Inertial Sensors,"Cameras, IMU",different viewpoints,60,"18,921,176",5,ND,"ROM, Walking, Acting and Freestyle",HAR,Activity recognition,TRUE
+G008,Activity Recognition using Cell Phone Accelerometers,GitHub,WISDM Lab: Dataset,Phone accelerometers,pocket,20,"1,098,207",35,ND,Daylife activity,HAR,Activity recognition,TRUE
+G009,The MobiFall and MobiAct datasets,GitHub,The MobiFall and MobiAct datasets | BMI,IMU,pocket,ND,"3,200",66,ND,"Activities of Daily Living, falls",HAR,Fall recognition,TRUE
+G010,Deep Inertial Poser,GitHub,DIP,IMU,"Arms, legs, weist",ND,"330,000",10,ND,various pose,HAR,Pose recognition,TRUE
+G011,LARa: Creating a Dataset for Human Activity Recognition in Logistics Using Semantic Attributes,GitHub,LARa: Creating a Dataset for Human Activity Recognition in Logistics Using Semantic Attributes | MDPI,IMU,"Arms, legs, weist",25,440,14,840 min,8 working activity,HAR,Motion capturing for logistics optimization,TRUE
